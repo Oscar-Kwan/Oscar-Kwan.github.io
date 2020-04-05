@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "http://oscar-kwan.github.io/oscar-kwan.github.io",
+  "homepage": "http://oscar-kwan.github.io/Oscar-Kwan.github.io",
   "dependencies": {
     "lodash": "^4.17.15",
     "react": "^16.13.1",

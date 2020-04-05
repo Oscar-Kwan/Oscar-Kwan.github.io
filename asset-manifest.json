@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Oscar-Kwan.github.io/static/css/main.2a02ff0e.chunk.css",
-    "main.js": "/Oscar-Kwan.github.io/static/js/main.c665d5ad.chunk.js",
-    "main.js.map": "/Oscar-Kwan.github.io/static/js/main.c665d5ad.chunk.js.map",
-    "runtime-main.js": "/Oscar-Kwan.github.io/static/js/runtime-main.7679bc6a.js",
-    "runtime-main.js.map": "/Oscar-Kwan.github.io/static/js/runtime-main.7679bc6a.js.map",
-    "static/js/2.a4cc98ce.chunk.js": "/Oscar-Kwan.github.io/static/js/2.a4cc98ce.chunk.js",
-    "static/js/2.a4cc98ce.chunk.js.map": "/Oscar-Kwan.github.io/static/js/2.a4cc98ce.chunk.js.map",
-    "index.html": "/Oscar-Kwan.github.io/index.html",
-    "precache-manifest.8ae3b79a1da856e939e9a663e37d3fa5.js": "/Oscar-Kwan.github.io/precache-manifest.8ae3b79a1da856e939e9a663e37d3fa5.js",
-    "service-worker.js": "/Oscar-Kwan.github.io/service-worker.js",
-    "static/css/main.2a02ff0e.chunk.css.map": "/Oscar-Kwan.github.io/static/css/main.2a02ff0e.chunk.css.map",
-    "static/js/2.a4cc98ce.chunk.js.LICENSE.txt": "/Oscar-Kwan.github.io/static/js/2.a4cc98ce.chunk.js.LICENSE.txt",
-    "static/media/resume.pdf": "/Oscar-Kwan.github.io/static/media/resume.8be1d3f7.pdf"
+    "main.css": "/portfolio/static/css/main.2a02ff0e.chunk.css",
+    "main.js": "/portfolio/static/js/main.1030a350.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1030a350.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.b37861ed.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.b37861ed.js.map",
+    "static/js/2.f5525740.chunk.js": "/portfolio/static/js/2.f5525740.chunk.js",
+    "static/js/2.f5525740.chunk.js.map": "/portfolio/static/js/2.f5525740.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.da175662eaf40cdf5bbb5f0d3763b06d.js": "/portfolio/precache-manifest.da175662eaf40cdf5bbb5f0d3763b06d.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.2a02ff0e.chunk.css.map": "/portfolio/static/css/main.2a02ff0e.chunk.css.map",
+    "static/js/2.f5525740.chunk.js.LICENSE.txt": "/portfolio/static/js/2.f5525740.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "/portfolio/static/media/resume.8be1d3f7.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.7679bc6a.js",
-    "static/js/2.a4cc98ce.chunk.js",
+    "static/js/runtime-main.b37861ed.js",
+    "static/js/2.f5525740.chunk.js",
     "static/css/main.2a02ff0e.chunk.css",
-    "static/js/main.c665d5ad.chunk.js"
+    "static/js/main.1030a350.chunk.js"
   ]
 }

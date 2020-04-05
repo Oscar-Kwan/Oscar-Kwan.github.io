@@ -1,9 +1,8 @@
 {
-  "name": "oscar-kwan-portfolio",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "",
-  "keywords": [],
-  "homepage": "http://oscar-kwan.github.io/Oscar-Kwan.github.io",
+  "homepage": "http://oscar-kwan.github.io/portfolio",
   "dependencies": {
     "lodash": "^4.17.15",
     "react": "^16.13.1",

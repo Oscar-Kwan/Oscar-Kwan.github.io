@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/oscar-kwan.github.io/static/css/main.2a02ff0e.chunk.css",
-    "main.js": "/oscar-kwan.github.io/static/js/main.c665d5ad.chunk.js",
-    "main.js.map": "/oscar-kwan.github.io/static/js/main.c665d5ad.chunk.js.map",
-    "runtime-main.js": "/oscar-kwan.github.io/static/js/runtime-main.a83c40f2.js",
-    "runtime-main.js.map": "/oscar-kwan.github.io/static/js/runtime-main.a83c40f2.js.map",
-    "static/js/2.a4cc98ce.chunk.js": "/oscar-kwan.github.io/static/js/2.a4cc98ce.chunk.js",
-    "static/js/2.a4cc98ce.chunk.js.map": "/oscar-kwan.github.io/static/js/2.a4cc98ce.chunk.js.map",
-    "index.html": "/oscar-kwan.github.io/index.html",
-    "precache-manifest.1686ef42afc2ee3d32f4f756a2a0dd6e.js": "/oscar-kwan.github.io/precache-manifest.1686ef42afc2ee3d32f4f756a2a0dd6e.js",
-    "service-worker.js": "/oscar-kwan.github.io/service-worker.js",
-    "static/css/main.2a02ff0e.chunk.css.map": "/oscar-kwan.github.io/static/css/main.2a02ff0e.chunk.css.map",
-    "static/js/2.a4cc98ce.chunk.js.LICENSE.txt": "/oscar-kwan.github.io/static/js/2.a4cc98ce.chunk.js.LICENSE.txt",
-    "static/media/resume.pdf": "/oscar-kwan.github.io/static/media/resume.8be1d3f7.pdf"
+    "main.css": "/Oscar-Kwan.github.io/static/css/main.2a02ff0e.chunk.css",
+    "main.js": "/Oscar-Kwan.github.io/static/js/main.c665d5ad.chunk.js",
+    "main.js.map": "/Oscar-Kwan.github.io/static/js/main.c665d5ad.chunk.js.map",
+    "runtime-main.js": "/Oscar-Kwan.github.io/static/js/runtime-main.7679bc6a.js",
+    "runtime-main.js.map": "/Oscar-Kwan.github.io/static/js/runtime-main.7679bc6a.js.map",
+    "static/js/2.a4cc98ce.chunk.js": "/Oscar-Kwan.github.io/static/js/2.a4cc98ce.chunk.js",
+    "static/js/2.a4cc98ce.chunk.js.map": "/Oscar-Kwan.github.io/static/js/2.a4cc98ce.chunk.js.map",
+    "index.html": "/Oscar-Kwan.github.io/index.html",
+    "precache-manifest.8ae3b79a1da856e939e9a663e37d3fa5.js": "/Oscar-Kwan.github.io/precache-manifest.8ae3b79a1da856e939e9a663e37d3fa5.js",
+    "service-worker.js": "/Oscar-Kwan.github.io/service-worker.js",
+    "static/css/main.2a02ff0e.chunk.css.map": "/Oscar-Kwan.github.io/static/css/main.2a02ff0e.chunk.css.map",
+    "static/js/2.a4cc98ce.chunk.js.LICENSE.txt": "/Oscar-Kwan.github.io/static/js/2.a4cc98ce.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "/Oscar-Kwan.github.io/static/media/resume.8be1d3f7.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.a83c40f2.js",
+    "static/js/runtime-main.7679bc6a.js",
     "static/js/2.a4cc98ce.chunk.js",
     "static/css/main.2a02ff0e.chunk.css",
     "static/js/main.c665d5ad.chunk.js"
